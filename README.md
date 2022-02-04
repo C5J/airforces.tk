@@ -1,1 +1,1 @@
-website: farted.gq
+website: https://airforces.tk
